@@ -15,16 +15,9 @@
 - [Author](#author)
 
 ## Project Overview
-This comprehensive analysis of Alphabet Inc.'s daily OHLCV stock (GOOG) reveals a remarkable 20-year growth trajectory that saw the shares move from ~2.50 (August 19, 2004) to ~200 in 20 years (August 19, 2004 to August 2025), after it first entered its Initial Public Offering (IPO) on August 19, 2004.  
-It further narrows down the trend to mirror the 3 massive market crashes of the 2008 crisis, the COVID chaos, and the 2022 bear market.  
-Skills demonstrated include: data import/cleanup, crisis performance insights, clean matplotlib visualizations, as well as critical thinking and problem-solving, ideal for financial analysis insights.
-
-
-This comprehensive analysis of Coca-Cola Inc.'s (KO) daily OHLCV stock data reveals a remarkable 60-year growth trajectory that saw shares evolve from thin 1960s trading volumes to modern multi-billion dollar monthly totals (1962-2022), showcasing remarkable stability through multiple market cycles.
-
-It further narrows down the trend to highlight consistent performance across decades, with optimized Power BI visualizations including line charts for price evolution, stacked area charts for volume growth, clustered columns for monthly/quarterly patterns, and performance cards tracking win rates and returns.
-
-Skills demonstrated include: Power BI dashboard design, DAX measure creation (AVERAGE, SUM, CALCULATE), cross-filtering interactivity, data transformation best practices, financial visualization optimization, as well as critical thinking in matching aggregation trends—ideal for financial data analysis and business intelligence roles.
+Analysis of Coca-Cola Inc. (KO) daily OHLCV data highlights a robust 60-year growth path that evolved from sparse trading volumes in the 1960s to elevated monthly averages (1962–2022), demonstrating exceptional resilience across diverse market cycles.
+It narrows down the trends to show steady performance over decades. Power BI visuals make it clear with optimised Power BI area charts that track price and volume growth, clustered columns that break down monthly and quarterly patterns, and KPI cards that highlight win rates and returns.
+Skills demonstrated include: Power BI dashboard design, DAX measure creation (AVERAGE, SUM, CALCULATE), cross-filtering interactivity, data transformation, financial visualisation, and critical thinking in matching aggregation trends, making it ideal for financial data analysis and business intelligence.
 
 
 ## Files Provided    
@@ -35,38 +28,35 @@ Google Stock Dataset (1962–2022) by Kalilur Rahman on Kaggle (15,311 rows × 8
 ## Tools Used
 **Excel** 
 - Initial data preview and exploration
-- Quick validation of column distributions
+- Quick validation of row and column distributions
 
-**Python**
-- `pandas` (data cleaning and preparation)
-- `matplotlib` (creates visualization)
+**Power BI**
+- Power BI Power Query (data cleaning and transformation)
+- Power BI Desktop (analysis, area charts, clustered columns, KPI cards)
 
-**Workflow**: Excel preview → Pandas cleaning & analysis → Matplotlib charts
+**Workflow**: Excel preview → Power Query cleaning & transformation → Power BI analysis, KPI cards, and charts.
 
 ## Data Cleaning and Preparation
 
 ### Data Quality Check:
 
-**Column Standardisation**
-- Datetime standardisation `df["date"] = pd.to_datetime(df["date"])`  
-  *Converts string dates to proper datetime objects*
-- Date column indexing `df = df.set_index("date").sort_index()`  
-  *Transforms date column into date index for analysis*  
+- Verified data types and standardized them for consistency.
+- Dropped redundant columns to streamline the dataset.
+- Checked for duplicates using Date as the unique identifier—no duplicates found.
+- Inspected for missing values—none detected.
+- Renamed key columns (e.g., Open → Open Price, High → High Price).
+- Confirmed chronological order of dates.
 
-**Missing Value Check**  
-- Check for missing value `df.isna().sum()`.  
-  *(All columns: No missing value)*  
-  
-**Duplicate Check**
-- Index dates: `df.index.duplicated().sum()` → *0 (Unique dates)*
-- Full rows:   `df.duplicated().sum()`     → *0 (No identical rows)*
-
-### Feature Engineering  
-- Daily price range `df["range"] = df["high"] - df["low"]`  
-- Daily % price change `df["return"] = df["close"].pct_change()`  
-- 20-day and 50-day Moving average `df["MA20"] = df["close"].rolling(window=20).mean()` and `df["MA50"] = df["close"].rolling(window=50).mean()`  
 
 ## Exploratory Data Analysis and Data Analysis  
+
+ # DAX Measures - KO Stock Analysis
+
+**Core Aggregation Measures**
+ -Avg Close Price`
+```dax
+Avg Close Price = AVERAGE('KO Data'[Close])
+
 
 **Analytical Methods Used**
 
