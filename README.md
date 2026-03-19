@@ -90,7 +90,10 @@ Over 60 years (1962-2022) and ~15,000 trading days, Coca-Cola (KO) saw a stagger
 #### 2. Trader-Friendly Consistency
 Across ~15,000 trading days that span 60 years, KO delivered a ~48% win rate. This means that nearly half of all days closed higher than they opened, and with just 1.74 average daily volatility, making it exceptionally reliable for both short-term and strategic position traders.
 
-#### 3. Steady Compounding Growth
+#### 3. Consistent Liquidity Base
+Monthly volumes evenly distributed (±5% variation) across all 12 months provides consistent liquidity year-round, eliminating seasonal execution risk. Reliable execution 365 days/year
+
+#### 4. Steady Compounding Growth
 The average closing price trend of KO shows steady growth projection of ~15,000%, where the shares rose from 0.04 in 1962 to 60.82 in 2022.
 
 ## Visualization  
