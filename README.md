@@ -8,7 +8,7 @@
 - [Data Cleaning and Preparation](#data-cleaning-and-preparation)
 - [Exploratory Data Analysis and Data Analysis](#exploratory-data-analysis-and-data-analysis)
 - [Analysis Finding](#analysis-finding)
-- [Insight](#insight)
+- [Key Insight](#key-insight)
 - [Visualization](#visualization)
 - [Complete Analysis](#complete-analysis)
 - [Recommendation](#recommendation)
@@ -67,10 +67,10 @@ Google Stock Dataset (1962–2022) by Kalilur Rahman on Kaggle (15,311 rows × 8
 
 ## Analysis Finding
 ### Key Metrics (KPI Cards)
-| **Metric** | **Value** | **Context** |
-|------------|-----------|-------------|
-| **Close > Open %** | **47.94** | Percentage of profitable days over 60 years |
-| **Avg Daily Volatility** | **~1.74%** | 60-year daily range average |
+| **Metric** | **Result** |
+|------------|------------|
+| **Close > Open %** | **Percentage of profitable days over 60 years (47.94)** |
+| **Avg Daily Volatility** | **60-year daily range average (~1.74%)** |
 
 ### Business Questions Answered
 | Q | Business Question | Visualizations | Key Result |
@@ -82,18 +82,16 @@ Google Stock Dataset (1962–2022) by Kalilur Rahman on Kaggle (15,311 rows × 8
 | **Q5** | **What is the sum of KO close price by month?** | **Area Chart** | **August has the highest in the sum of close price with ~16k in total** |
 
 
-## Insight
-### 1. Trading Volume Pattern
-When Google launched its IPO, 2005 exploded with massive trading volume, the highest in both total shares traded and average daily volume. This is largely due to the rush to own shares. As the stock appreciated post-IPO, volumes declined due to institutionalised trading. 2025 had the lowest total volume (incomplete year), and 2024 had the lowest average daily volume.
+## Key Insight
+**The analysis results are summarised as follows:**
+#### 1. Massive Trading Scale
+Over 60 years (1962-2022) and ~15,000 trading days, Coca-Cola (KO) saw a staggering 140 billion shares traded, with a single-year trading volume of 6 billion shares (about 4.3% of all 60-year volume) in 2008 alone.
 
+#### 2. Trader-Friendly Consistency
+Across ~15,000 trading days that span 60 years, KO delivered a ~48% win rate. This means that nearly half of all days closed higher than they opened, and with just 1.74 average daily volatility, making it exceptionally reliable for both short-term and strategic position traders.
 
-### 2. Monthly Returns Pattern  
-Looking at average returns by month, October consistently delivers the highest gains for GOOG investors. On the other hand, investors earned less or even lost money in the months of February, June, and August.
-
-
-### 3. Stock Volatility Amid Crisis  
-GOOG stock bounces back strongly from every crisis. Handled the 2008 panic with quick recovery, didn't have a major drawdown in the COVID hit, and steadily climbed out of the 2022 slowdown, showing the stock's proven ability to recover from shocks.
-
+#### 3. Steady Compounding Growth
+The average closing price trend of KO shows steady growth projection of ~15,000%, where the shares rose from 0.04 in 1962 to 60.82 in 2022.
 
 ## Visualization  
 Key insights from GOOG stock data analysis:  
