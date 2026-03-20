@@ -3,12 +3,15 @@ Analysis of Coca-Cola Inc. (KO) daily OHLCV data highlights a robust 60-year gro
 It narrows down the trends to show steady performance over decades. Power BI visuals make it clear, with optimised area charts that track price and volume growth, clustered columns that break down monthly and quarterly patterns, and KPI cards that highlight win rates and returns.
 Skills demonstrated include: Power BI dashboard design, DAX measure creation (AVERAGE, SUM, CALCULATE), cross-filtering interactivity, data transformation, financial visualisation, and critical thinking in matching aggregation trends, making it ideal for financial data analysis and business intelligence.
 
-## 📂 Project Structure
-- **/data** – Contains the raw dataset and cleaned/split CSV files used in this project.  
-- **/analysis** – Includes PNG charts generated during analysis.  
-- **/screenshots** – Screenshots of pivot tables and spreadsheet transformations.  
-- **insights.md** – Markdown summary of all key insights extracted from the analysis.  
-- **README.md** – This file you’re reading now!
+## 📂 Repository Layout  
+- **file** – Raw dataset + cleaned CSV files 
+- **charts** – Analysis visuals (PNG)
+- **process** – Technical work steps 
+- **powerBI** – Live .pbix file 
+- **insights.md** – All insights from analysis 
+- **recommendation** – 
+- **README.md** – Project overview 
+
 
   ## 📊 Tools Used
 - Excel (Data Cleaning, Pivot Tables)
@@ -39,7 +42,7 @@ This folder contains all final visualizations and charts generated from the clea
 These include resistance trends over time, comparisons by gender, age group, and bacterial species. View charts here: (https://github.com/dimma-analytics/antibiotic-resistance-analysis/tree/main/analysis)
 
 ## 🔗 Data Source
-European Antimicrobial Resistance Surveillance (EARS) database (Kaggle)
+Google Stock Dataset (1962–2022) by Kalilur Rahman (Kaggle). [Download](https://www.kaggle.com/datasets/kalilurrahman/coca-cola-stock-live-and-updated)
 
 
 ## Table of Contents
