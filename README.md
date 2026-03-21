@@ -20,8 +20,8 @@ Skills demonstrated include: Power BI dashboard design, DAX measure creation (AV
 - Markdown (.md files)
 
 ## 📊 Business Questions Answered
-| Q | Business Question | Visualizations |
-|---| ------------------|----------------|
+| Q | Business Question | Visualizations Used |
+|---| ------------------|---------------------|
 | **Q1** | How has KO volume grown over 60 years? | Stacked Area Chart |
 | **Q2** | How does KO volume show quarterly seasonality spread? | Clustered Column Chart  |
 | **Q3** | What is the average KO close price by year? | Line Chart |
