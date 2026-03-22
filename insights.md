@@ -3,13 +3,13 @@
 **(KO 60-year performance: ~48% win rate, 1.74% volatility across 15K days)**
 - In the 15k trading days, the KO has closed ~48% of the time more than it opened. 
 - The shares experienced an average daily volatility of 1.74. 
-- The KO analysis covers approximately ~15k trading days spanning 60 years from 1962 to 2022.
+- The analysis covers ~15k trading days spanning 60 years from 1962 to 2022.
 
 ## 📈 Volume Analysis
 **(140 billion shares traded, consistent monthly liquidity (±5% variation)**
 - A total of 140 billion shares was traded in the space of 60 years (1962 to 2022).
 - The year 2008 saw the highest average volume of shares sold, ~25 million (4.3% of the 60-year average volume).
-- Monthly volumes are almost evenly distributed (+ or -5% variation) across all 12 months.
+- Monthly volumes are almost evenly distributed (±5% variation) across all 12 months.
 
 ## 💰 Price Performance
 **(15,000% price growth 1962-2022, 2000s strongest decade)**
