@@ -5,8 +5,8 @@ Skills demonstrated include: Power BI dashboard design, DAX measure creation (AV
 
 ## 📂 Repository Layout  
 - **file** – Raw dataset + cleaned CSV files 
-- **charts** – Analysis visuals (PNG)
-- **process** – Technical work steps 
+- **analysis charts** – Analysis visuals (PNG)
+- **process charts** – Technical work steps 
 - **powerBI** – Live .pbix file 
 - **insights.md** – All insights from analysis 
 - **recommendation** – 
@@ -27,7 +27,7 @@ Skills demonstrated include: Power BI dashboard design, DAX measure creation (AV
 | **Q4** | What is the volume spread of KO by months? | Clustered Column Chart |
 | **Q5** | What is the sum of KO close price by month? | Area Chart |
 
-## 📸 Screenshots
+## 📸 Process Charts
 All charts, pivots, and visuals used in this project are stored in the /screenshots/ folder. View screenshots here: (https://github.com/dimma-analytics/antibiotic-resistance-analysis/tree/main/screenshots)
 
 ## 📁 Data
