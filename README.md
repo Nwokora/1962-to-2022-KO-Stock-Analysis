@@ -1,9 +1,9 @@
-# 📈 Analysis of Coca-Cola (KO) Stock Performance from 1962 to 2022.
+# 💹 Analysis of Coca-Cola (KO) Stock Performance from 1962 to 2022.
 Analysis of Coca-Cola Inc. (KO) daily OHLCV data highlights a robust 60-year growth path (1962 to 2022) that evolved from sparse trading volumes to elevated monthly averages. It narrows down the trends to show steady performance over decades. Power BI visuals use optimized charts to track price and volume growth by month, quarter, and year, and KPI cards to highlight win rates and returns.
 
 ## 📂 Repository Layout  
 - **🗄️ dataset** – Raw dataset and cleaned CSV files 
-- **📊 analysis charts** – Final analysis visuals (PNG)
+- **📈 analysis charts** – Final analysis visuals (PNG)
 - **⚙️ process charts** – Technical work steps visual (PNG) 
 - **💡 insights.md** – All insights from analysis 
 - **📖 README.md** – Project overview 
@@ -40,7 +40,7 @@ KO achieved 140B total volume across 60 years (~15K trading days) at 2.33B avera
 ## ⚙️ Process Charts
 Work-in-progress charts showing screenshots of analysis steps. **[Process Charts](https://github.com/nwokora/1962-to-2022-ko-stock-analysis/tree/main/process_charts)**
 
-## 📊 Analysis Charts
+## 📈 Analysis Charts
 This folder holds all the final charts and visualizations created from this analysis.
 These include resistance trends over time, comparisons by gender, age group, and bacterial species. View charts here: **[Analysis Charts](https://github.com/nwokora/1962-to-2022-ko-stock-analysis/tree/main/analysis_charts)**
 
