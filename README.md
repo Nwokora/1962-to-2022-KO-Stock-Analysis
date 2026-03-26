@@ -1,36 +1,41 @@
 # 📈 Analysis of Coca-Cola (KO) Stock Performance from 1962 to 2022.
-Analysis of Coca-Cola Inc. (KO) daily OHLCV data highlights a robust 60-year growth path (1962 to 2022) that evolved from sparse trading volumes to elevated monthly averages, demonstrating exceptional resilience across diverse market cycles.
-It narrows down the trends to show steady performance over decades. Power BI visuals make it clear, with optimised area charts that track price and volume growth, clustered columns that break down monthly and quarterly patterns, and KPI cards that highlight win rates and returns.
-Skills demonstrated include: Power BI dashboard design, DAX measure creation (AVERAGE, SUM, CALCULATE), cross-filtering interactivity, data transformation, financial visualisation, and critical thinking in matching aggregation trends, making it ideal for financial data analysis and business intelligence.
+Analysis of Coca-Cola Inc. (KO) daily OHLCV data highlights a robust 60-year growth path (1962 to 2022) that evolved from sparse trading volumes to elevated monthly averages. It narrows down the trends to show steady performance over decades. Power BI visuals use optimized charts to track price and volume growth by month, quarter, and year, and KPI cards to highlight win rates and returns.
 
 ## 📂 Repository Layout  
-- **file** – Raw dataset + cleaned CSV files 
-- **analysis charts** – Analysis visuals (PNG)
-- **process charts** – Technical work steps 
-- **powerBI** – Live .pbix file 
-- **insights.md** – All insights from analysis 
-- **recommendation** – 
-- **README.md** – Project overview 
+- **🗄️ dataset** – Raw dataset and cleaned CSV files 
+- **📊 analysis charts** – Final analysis visuals (PNG)
+- **⚙️ process charts** – Technical work steps visual (PNG) 
+- **💡 insights.md** – All insights from analysis 
+- **📖 README.md** – Project overview 
 
-  ## 📊 Tools Used
-- Excel (Data Cleaning, Pivot Tables)
-- Power BI (Visualizations)
-- GitHub (Documentation)
-- Markdown (.md files)
+  ## 🛠️ Tools Used
+-  **Excel** – Data cleaning & pivot tables
+-  **Power BI** – Interactive visualizations  
+-  **GitHub** – Hosting documented projects
+-  **Markdown** – Documentation (.md files)
+
+ ## 🧠 Skills Demonstrated
+- Power BI dashboard design for 60+ years of KO stock data trends
+- DAX measure creation (AVERAGE, SUM, DIVIDE) for accurate aggregations
+- Data transformation from raw to cleaned datasets
+- Financial visualization of historical stock performance
+- Problem-solving to match and analyse aggregation trends
 
 ## 📊 Business Questions Answered
 | Q | Business Question | Visualizations Used |
-|---| ------------------|---------------------|
-| **Q1** | How has KO volume grown over 60 years? | Stacked Area Chart |
-| **Q2** | How does KO volume show quarterly seasonality spread? | Clustered Column Chart  |
-| **Q3** | What is the average KO close price by year? | Line Chart |
-| **Q4** | What is the volume spread of KO by months? | Clustered Column Chart |
-| **Q5** | What is the sum of KO close price by month? | Area Chart |
+|---|------------------|---------------------|
+| **Q1** | Average KO volume by year | Clustered Column Chart |
+| **Q2** | Average KO volume by month | Clustered Column Chart |
+| **Q3** | Average KO close price by year | Area Chart |
+| **Q4** | Average KO close price by quarter | Clustered Column Chart |
+| **Q5** | Average KO close price by month | Clustered Column Chart |
 
-## 📸 Process Charts
+## 💡 Key Insights
+
+## ⚙️ Process Charts
 All charts and visuals used in this analysis are stored in the /process charts/ folder. View screenshots here: (https://github.com/nwokora/1962-to-2022-ko-stock-analysis/tree/main/process_charts)
 
-## 📁 Data
+## 🗄️ Data
 This folder contains the datasets used throughout the project:
 
 Raw Dataset – The original Excel file sourced from the European Antimicrobial Resistance Surveillance (EARS) database.
