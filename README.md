@@ -31,11 +31,17 @@ Analysis of Coca-Cola Inc. (KO) daily OHLCV data highlights a robust 60-year gro
 | **Q5** | Average KO close price by month | Clustered Column Chart |
 
 ## 💡 Key Insights
+KO achieved 140B total volume across 60 years (~15K trading days) at 2.33B average yearly, peaking at ~6B in 2008. Close price CAGR rose from $0.04 (1962) to $60.86 (2022), with a 48% win rate (close > open) and 1.74 average daily volatility. (https://github.com/nwokora/1962-to-2022-ko-stock-analysis/blob/main/insights.md)
+
+## 🗄️ Dataset
+**Raw Dataset** – Original KO stock data (1962-2022): open, high, low, close prices + daily volume (~15K trading days).  
+**Cleaned Dataset** – Processed CSVs with optimized data types for Power BI analysis.
+(
 
 ## ⚙️ Process Charts
 All charts and visuals used in this analysis are stored in the /process charts/ folder. View screenshots here: (https://github.com/nwokora/1962-to-2022-ko-stock-analysis/tree/main/process_charts)
 
-## 🗄️ Data
+## 🗄️ Dataset
 This folder contains the datasets used throughout the project:
 
 Raw Dataset – The original Excel file sourced from the European Antimicrobial Resistance Surveillance (EARS) database.
