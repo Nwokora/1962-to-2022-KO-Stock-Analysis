@@ -32,7 +32,7 @@ Analysis of Coca-Cola Inc. (KO) daily OHLCV data highlights a robust 60-year gro
 | **Q5** | Average KO close price by month | Clustered Column Chart |
 
 ## 💡 Key Insights
-Coca-Cola (KO) offers unmatched reliability: ~48% daily wins, 1.74% low volatility, 15,000% growth, and ±5% steady volume driven by recession-proof beverage demand, pricing power, and globally accepted brand. 
+Coca-Cola (KO) offers unmatched reliability: ~48% daily wins, 1.74% low volatility, 152,050% growth (0.04 to 60.86), and ±5% steady volume driven by recession-proof beverage demand, pricing power, and globally accepted brand. 
 **[See Insights Here](https://github.com/nwokora/1962-to-2022-ko-stock-analysis/blob/main/insights.md)**  
 <img width="648" height="284" alt="KO Insight Summary" src="https://github.com/user-attachments/assets/08787dac-98a2-41b6-ab28-3af4349ce0f9" />
 
