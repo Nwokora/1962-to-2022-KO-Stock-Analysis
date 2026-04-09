@@ -32,7 +32,7 @@ Analysis of Coca-Cola Inc. (KO) daily OHLCV data highlights a robust 60-year gro
 | **Q5** | Average KO close price by month | Clustered Column Chart |
 
 ## 💡 Key Insights
-Coca-Cola (KO) offers unmatched reliability: 48% daily wins, 1.74% low volatility, 15,000% growth, and ±5% steady volume driven by recession-proof beverage demand, pricing power, and global brand 
+Coca-Cola (KO) offers unmatched reliability: ~48% daily wins, 1.74% low volatility, 15,000% growth, and ±5% steady volume driven by recession-proof beverage demand, pricing power, and globally accepted brand. 
 **[See Insights Here](https://github.com/nwokora/1962-to-2022-ko-stock-analysis/blob/main/insights.md)**  
 <img width="648" height="284" alt="KO Insight Summary" src="https://github.com/user-attachments/assets/08787dac-98a2-41b6-ab28-3af4349ce0f9" />
 
@@ -40,16 +40,16 @@ Coca-Cola (KO) offers unmatched reliability: 48% daily wins, 1.74% low volatilit
 key data points and metrics extracted from the KO analysis.
 **[See Findings Here](https://github.com/nwokora/1962-to-2022-ko-stock-analysis/edit/main/analysis_findings.md)**
 
-## 🗄️ Dataset
-**Raw Dataset** – Original KO stock data (1962-2022): open, high, low, close prices + daily volume (~15K trading days).  
-**Cleaned Dataset** – Processed CSVs with optimized data types for Power BI analysis. **[See Datasets Here](https://github.com/nwokora/1962-to-2022-ko-stock-analysis/tree/main/dataset)**
-
 ## ⚙️ Process Charts
 Work-in-progress charts showing screenshots of analysis steps. **[See Process Charts Here](https://github.com/nwokora/1962-to-2022-ko-stock-analysis/tree/main/process_charts)**
 
 ## 📈 Analysis Charts
 This folder holds all the final charts and visualizations created from this analysis.
 These include resistance trends over time, comparisons by gender, age group, and bacterial species. View charts here: **[See Analysis Charts Here](https://github.com/nwokora/1962-to-2022-ko-stock-analysis/tree/main/analysis_charts)**
+
+## 🗄️ Dataset
+**Raw Dataset** – Original KO stock data (1962-2022): open, high, low, close prices + daily volume (~15K trading days).  
+**Cleaned Dataset** – Processed CSVs with optimized data types for Power BI analysis. **[See Datasets Here](https://github.com/nwokora/1962-to-2022-ko-stock-analysis/tree/main/dataset)**
 
 ## 🔗 Data Source
 Coca-Cola Stock Dataset (1962–2022) by Kalilur Rahman (Kaggle). **[Dataset Source](https://www.kaggle.com/datasets/kalilurrahman/coca-cola-stock-live-and-updated)**
