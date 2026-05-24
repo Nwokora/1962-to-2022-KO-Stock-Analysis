@@ -84,19 +84,22 @@ Coca-Cola Stock Dataset (1962–2022) by Kalilur Rahman (Kaggle).
 **[Dataset Source](https://www.kaggle.com/datasets/kalilurrahman/coca-cola-stock-live-and-updated)**
 
 ## 🧹 Data Cleaning and Preparation
-- Checked for duplicates (none were found).
-- Checked for missing values (none were found).
-- Standardized the date column format.
-- Converted income_level and subsidy_level into numeric values.
-- Aggregated the tables for analysis and visualization.
+- Standardized column data types for consistency and analysis.
+- Checked for duplicates (none were found.)
+- Checked for missing values (none were found.)
+- Renamed Open, High, Low, and Close with a Price prefix for clarity.
+- Created key measures such as Average Close Price, Average Daily Volatility, Total Trading Days, and related metrics.
 
 ## 📉 Analysis
-- **Average Fuel Price by Countries Analysis** – This analysis was done to compare fuel prices across 84 countries in 7 regions and identify the 10 costliest countries and the 10 most affordable ones.
-- **Regional Fuel Cost Structure Analysis** – These include: Average Fuel Prices, Average Subsidies, and Average Tax Percentages across regions to reveal the distinct patterns behind fuel affordability.
-- **Share Percentage by Region and Income Level Analysis** – This examined income distribution across regions to understand how regional income strength influences fuel affordability.
-- **Share Percentage by Region and Subsidy Level Analysis** – explored how subsidy levels vary across regions and how those differences influence fuel prices.
-- **The Low-income Subsidy Index Analysis** – This examined how subsidy levels help reduce fuel affordability pressure in low-income countries.
-- **The yearly price analysis** – This tracks fuel price trends over the last six years.
+- **Volume of KO Traded** – This analysis shows the total trading activity of KO over the selected period, helping to indicate overall market and liquidity.
+- **Total Trading Days** – This analysis represents the total number of trading days covered in the dataset, showing the length of the period under review.
+- **Close > Open (%)** – This metric shows the percentage of trading days when the closing price was higher than the opening price, reflecting how often KO ended the day positively.
+- **Average Daily Volatility** – This metric measures the average amount KO’s price moved each day, showing how stable or volatile the stock was over the period.
+- **Average Volume by Year Analysis** – This analysis examines how KO’s trading volume changed across the 60 years from 1962 to 2022.
+- **Average Volume by Month Analysis** – This analysis examines how KO’s trading volume varies across different months of the year.
+- **Average Close Price by Year** – This analysis examines KO’s average closing price over time to highlight the stock’s growth trend across the study period.
+- **Average Closing Price by Quarter** – This analysis examines KO’s average closing price across each quarter, helping to reveal short-term performance trends within the year.
+- **Average Closing Price by Month** – This analysis examines KO’s average closing price across each month, helping to identify recurring seasonal patterns and short-term price trends.
 
 ## 🔭 Visualizations
 <img width="627" height="254" alt="Average Fuel Price by Region" src="https://github.com/user-attachments/assets/d182547e-5dd3-4fd3-8ae9-3f1d0985add8" />   
