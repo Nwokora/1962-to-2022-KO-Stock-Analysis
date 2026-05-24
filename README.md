@@ -54,3 +54,76 @@ Work-in-progress charts showing screenshots of analysis steps. **[See Process Ch
 
 ## 🔗 Data Source
 Coca-Cola Stock Dataset (1962–2022) by Kalilur Rahman (Kaggle). **[Dataset Source](https://www.kaggle.com/datasets/kalilurrahman/coca-cola-stock-live-and-updated)**
+
+
+
+
+
+# 💹 Coca-Cola (KO) Stock Performance Analysis (1962-2022)
+
+## 📌 Overview
+Analysis of Coca-Cola Inc. (KO) daily OHLCV data highlights a robust 60-year growth path (1962 to 2022) that evolved from sparse trading volumes to elevated monthly averages. It narrows down the trends to show steady performance over decades. Power BI visuals use optimized charts to track price and volume growth by month, quarter, and year, and KPI cards to highlight win rates and returns.
+
+## 🎯 Objective
+The objective of this analysis is to assess how fuel prices, tax percentages, subsidy support, and income levels shape fuel affordability across different continental regions and countries from 2020 to 2026, and to highlight the regions and countries most affected by affordability pressure.
+
+## 📊 Analysis Questions
+1. Average KO volume by year.
+2. Average KO volume by month.
+3. Average KO close price by year.
+4. Average KO close price by quarter.
+5. Average KO close price by month.
+
+## 🛠️ Tools Used
+-  Excel (Initial data preview and quick validation of rows & columns distributions)
+-  Power Query (Data cleaning and preparation)
+-  Power BI (Analysis visualization)
+
+## 🔗 Data Source
+Coca-Cola Stock Dataset (1962–2022) by Kalilur Rahman (Kaggle).
+**[Dataset Source](https://www.kaggle.com/datasets/kalilurrahman/coca-cola-stock-live-and-updated)**
+
+## 🧹 Data Cleaning and Preparation
+- Checked for duplicates (none were found).
+- Checked for missing values (none were found).
+- Standardized the date column format.
+- Converted income_level and subsidy_level into numeric values.
+- Aggregated the tables for analysis and visualization.
+
+## 📉 Analysis
+- **Average Fuel Price by Countries Analysis** – This analysis was done to compare fuel prices across 84 countries in 7 regions and identify the 10 costliest countries and the 10 most affordable ones.
+- **Regional Fuel Cost Structure Analysis** – These include: Average Fuel Prices, Average Subsidies, and Average Tax Percentages across regions to reveal the distinct patterns behind fuel affordability.
+- **Share Percentage by Region and Income Level Analysis** – This examined income distribution across regions to understand how regional income strength influences fuel affordability.
+- **Share Percentage by Region and Subsidy Level Analysis** – explored how subsidy levels vary across regions and how those differences influence fuel prices.
+- **The Low-income Subsidy Index Analysis** – This examined how subsidy levels help reduce fuel affordability pressure in low-income countries.
+- **The yearly price analysis** – This tracks fuel price trends over the last six years.
+
+## 🔭 Visualizations
+<img width="627" height="254" alt="Average Fuel Price by Region" src="https://github.com/user-attachments/assets/d182547e-5dd3-4fd3-8ae9-3f1d0985add8" />   
+
+**Average fuel prices varied widely by region, with Oceania and Europe recording the highest values overall. The Middle East had the lowest average fuel price, while South America and Africa also had relatively low prices.**
+
+<img width="627" height="254" alt="Average Tax Percentage by Region" src="https://github.com/user-attachments/assets/bc877c97-3214-4388-8399-2d40f03572f1" />   
+
+**Average tax percentages also differed noticeably by region. Oceania and Europe generally had the highest tax burdens, while South America had the lowest average tax percentage, followed by the Middle East.**
+
+<img width="906" height="256" alt="Subsidy Charts" src="https://github.com/user-attachments/assets/e207c749-ec55-4400-bfb4-7cef93a42453" />
+
+**The Middle East stands out with the highest average subsidy, and that matches its high share of Very High subsidy levels, while South America and Africa also show relatively stronger support than most regions. At the other end, Europe and especially Oceania have the lowest average subsidies, with Oceania being entirely in the Low subsidy category and Europe also heavily concentrated there. Overall, the pattern suggests that subsidy support is much stronger in the Middle East and weaker in Europe and Oceania.**
+
+<img width="629" height="255" alt="Share_pct by Region and Income-level" src="https://github.com/user-attachments/assets/baf4febd-65f2-48d7-ba8c-71246bd0bdba" />
+
+**Oceania is the most concentrated in the High category, with Europe and North America also leaning strongly toward High. In contrast, Africa is mostly in the Low category, and South America dominates the Middle level. Asia shows a more mixed split across the three categories, while the Middle East shows a split only between Middle and High, with High making up the larger portion.**
+
+## 💡 Key Insights
+Coca-Cola (KO) offers unmatched reliability: ~48% daily wins, 1.74% low volatility, 152,050% growth (0.04 to 60.86), and ±5% steady volume driven by recession-proof beverage demand, pricing power, and globally accepted brand. 
+**[See Insights Here](https://github.com/nwokora/1962-to-2022-ko-stock-analysis/blob/main/insights.md)**
+
+## 📂 Repository Layout  
+- **📈 analysis charts** – Final analysis visuals (PNG)
+- **🗄️ dataset** – Raw dataset and cleaned CSV files
+- **📋 group tables** – Pandas aggregated tables in CSV files
+- **⚙️ process charts** – Technical work steps visual (PNG)
+- **📖 README.md** – Project overview
+- **🔎 Analysis Findings** – All metrics and findings from the analysis
+- **💡 insights.md** – All insights from analysis
