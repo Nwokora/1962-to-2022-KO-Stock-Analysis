@@ -102,9 +102,9 @@ Coca-Cola Stock Dataset (1962–2022) by Kalilur Rahman (Kaggle).
 - **Average Closing Price by Month** – This analysis examines KO’s average closing price across each month, helping to identify recurring seasonal patterns and short-term price trends.
 
 ## 🔭 Visualizations
-<img width="627" height="254" alt="Average Fuel Price by Region" src="https://github.com/user-attachments/assets/d182547e-5dd3-4fd3-8ae9-3f1d0985add8" />   
-
-**Average fuel prices varied widely by region, with Oceania and Europe recording the highest values overall. The Middle East had the lowest average fuel price, while South America and Africa also had relatively low prices.**
+<img width="680" height="339" alt="1962-2022 KO Market Performance Summary" src="https://github.com/user-attachments/assets/969e7671-c309-41b5-9977-9cf2f6265c53" />
+   
+**1962-2022 KO Market Performance Summary highlights KO’s long-term trading behaviour, liquidity, and price stability over the 60 years. The KPIs capture total trading volume, the number of trading days analyzed, the percentage of days the stock closed above its opening price, and the average daily volatility. Together, they provide a concise view of KO’s market activity and show how consistently the stock has performed over time.**
 
 <img width="627" height="254" alt="Average Tax Percentage by Region" src="https://github.com/user-attachments/assets/bc877c97-3214-4388-8399-2d40f03572f1" />   
 
