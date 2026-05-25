@@ -110,13 +110,9 @@ Coca-Cola Stock Dataset (1962–2022) by Kalilur Rahman (Kaggle).
 
 **Average Volume Traded by Year shows that KO’s trading activity increased substantially over time, rising from 1,371,885.71 in 1962 to 16,810,583.01. The peak in 2008 at 25,264,216.60 suggests unusually strong market participation during that year.**
 
-<img width="906" height="256" alt="Subsidy Charts" src="https://github.com/user-attachments/assets/e207c749-ec55-4400-bfb4-7cef93a42453" />
+<img width="759" height="302" alt="Screenshot 2026-05-25 095000" src="https://github.com/user-attachments/assets/eb327dd5-8901-4a60-8fe0-6b51ccd44f75" />
 
-**The Middle East stands out with the highest average subsidy, and that matches its high share of Very High subsidy levels, while South America and Africa also show relatively stronger support than most regions. At the other end, Europe and especially Oceania have the lowest average subsidies, with Oceania being entirely in the Low subsidy category and Europe also heavily concentrated there. Overall, the pattern suggests that subsidy support is much stronger in the Middle East and weaker in Europe and Oceania.**
-
-<img width="629" height="255" alt="Share_pct by Region and Income-level" src="https://github.com/user-attachments/assets/baf4febd-65f2-48d7-ba8c-71246bd0bdba" />
-
-**Oceania is the most concentrated in the High category, with Europe and North America also leaning strongly toward High. In contrast, Africa is mostly in the Low category, and South America dominates the Middle level. Asia shows a more mixed split across the three categories, while the Middle East shows a split only between Middle and High, with High making up the larger portion.**
+**Average Close Price by Year highlights KO’s remarkable long-term price growth, rising from 0.04 in 1962 to a peak of 60.86 in 2022. This steady increase reflects the stock’s enduring strength and long-term value expansion.**
 
 ## 💡 Key Insights
 Over the 60 years analysed, KO demonstrated exceptional long-term resilience and value creation. The stock rose from 0.04 to 60.86, representing a growth of about 152,050%, while maintaining an average daily volatility of just 1.74%. This combination of strong appreciation and relatively modest volatility suggests a stock that has delivered substantial returns without excessive instability.
