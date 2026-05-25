@@ -106,8 +106,8 @@ Coca-Cola Stock Dataset (1962–2022) by Kalilur Rahman (Kaggle).
    
 **1962-2022 KO Market Performance Summary highlights KO’s long-term trading behaviour, liquidity, and price stability over the 60 years. The KPIs capture total trading volume, the number of trading days analyzed, the percentage of days the stock closed above its opening price, and the average daily volatility. Together, they provide a concise view of KO’s market activity and show how consistently the stock has performed over time.**
 
-<img width="747" height="364" alt="1962-2022 KO Average Volume by Year" src="https://github.com/user-attachments/assets/13f3ca8b-1ee6-4500-bace-7cf0bb37b6b3" />
-  
+<img width="761" height="304" alt="image" src="https://github.com/user-attachments/assets/6749bc76-4351-4b6c-b892-0b3190fa0043" />
+
 **Average Volume Traded by Year shows that KO’s trading activity increased substantially over time, rising from 1,371,885.71 in 1962 to 16,810,583.01. The peak in 2008 at 25,264,216.60 suggests unusually strong market participation during that year.**
 
 <img width="906" height="256" alt="Subsidy Charts" src="https://github.com/user-attachments/assets/e207c749-ec55-4400-bfb4-7cef93a42453" />
