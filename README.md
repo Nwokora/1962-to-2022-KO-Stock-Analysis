@@ -30,9 +30,9 @@ Coca-Cola Stock Dataset (1962–2022) by Kalilur Rahman (Kaggle).
 - Created key measures such as Average Close Price, Average Daily Volatility, Total Trading Days, and related metrics.
 
 ## 📉 Analysis
-- **Volume of KO Traded** – This analysis shows the total trading activity of KO over the selected period, helping to indicate overall market and liquidity.
-- **Total Trading Days** – This analysis represents the total number of trading days covered in the dataset, showing the length of the period under review.
-- **Close > Open (%)** – This metric shows the percentage of trading days when the closing price was higher than the opening price, reflecting how often KO ended the day positively.
+- **Volume of KO Traded** – This analysis shows the total trading activity of KO over the selected period, helping to indicate overall market interest and liquidity. The result showed a total volume of 140 billion shares traded over 60 years.
+- **Total Trading Days** – This analysis shows the total trading days covered in the dataset, spanning ~15,000 trading days over the full period under review.
+- **Close > Open (%)** – This metric shows the percentage of trading days when the closing price was higher than the opening price, reflecting how often KO ended the day positively. KO closed higher than it opened on 48% of trading days.
 - **Average Daily Volatility** – This metric measures the average amount KO’s price moved each day, showing how stable or volatile the stock was over the period.
 - **Average Volume by Year Analysis** – This analysis examines how KO’s trading volume changed across the 60 years from 1962 to 2022.
 - **Average Volume by Month Analysis** – This analysis examines how KO’s trading volume varies across different months of the year.
