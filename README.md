@@ -34,9 +34,9 @@ Coca-Cola Stock Dataset (1962–2022) by Kalilur Rahman (Kaggle).
 - **Total Trading Days** – This analysis shows the total trading days covered in the dataset, spanning ~15,000 trading days over the full period under review.
 - **Close > Open (%)** – This metric shows the percentage of trading days when the closing price was higher than the opening price, reflecting how often KO ended the day positively. KO closed higher than it opened on 48% of trading days.
 - **Average Daily Volatility** – This metric measures the average amount KO’s price moved each day. 1.74 Avg Daily Volatility shows a moderate and relatively stable stock over the period.
-- **Average Volume by Year Analysis** – This analysis examines how KO’s trading volume changed across the 60 years from 1962 to 2022.
-- **Average Volume by Month Analysis** – This analysis examines how KO’s trading volume varies across different months of the year.
-- **Average Close Price by Year** – This analysis examines KO’s average closing price over time to highlight the stock’s growth trend across the study period.
+- **Average Volume by Year Analysis** – This analysis examines how KO’s trading volume changed over 60 years, from 1962 to 2022. The average annual volume rose from 1,371,885.71 shares in 1962 to 16,810,583.01 shares in 2022. The highest average volume occurred in 2008, reaching 25,264,216.60 shares.
+- **Average Volume by Month Analysis** –This analysis examines how KO’s trading volume varies across the months of the year. The result shows monthly volumes are nearly even, with only about ±5% variation across all 12 months.
+- **Average Close Price by Year** – This analysis examines KO’s average closing price over time to highlight the stock’s growth trend across the study period. The price rose from 0.04 in 1962 to 60.86 in 2022, an increase of about 152,050%.
 - **Average Closing Price by Quarter** – This analysis examines KO’s average closing price across each quarter, helping to reveal short-term performance trends within the year.
 - **Average Closing Price by Month** – This analysis examines KO’s average closing price across each month, helping to identify recurring seasonal patterns and short-term price trends.
 
